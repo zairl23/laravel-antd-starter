@@ -1,0 +1,8 @@
+{
+    "name": "ney/laview",
+    "description": "Frontend View Template system for Laravel project",
+    "type": "pacakge, lavavel,",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
